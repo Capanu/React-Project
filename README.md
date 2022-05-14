@@ -1,2 +1,2 @@
-# React-Project-
+# React-Project
 DB React Project
