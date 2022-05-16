@@ -218,7 +218,6 @@
     height: 750px;
     width: 1000px;
     background-color: dodgerblue;
-    display:none;
     position: fixed; /* Stay in place */
     z-index: 1; /* Sit on top */
 }
